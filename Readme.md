@@ -1,4 +1,4 @@
-This project shows Design pattern in kotlin project Base
+This project shows Design pattern in kotlin project 
 
 
 <h1>Patterns </h1>
